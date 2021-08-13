@@ -14,5 +14,8 @@ By using the software called "FV2200", I copy and past the data from the softwar
 For the ".xlsx" file, the first 3 sheets come from the ".txt" file viewed by "FV2200" software. Direct copy and past is sufficient. The 4th sheet of the ".xlsx" file called "Current_new" is the main part of the 2nd sheet called "Current". <br>
 Being careful about the format should be enough to run this code successfully.<br>
 
+## Main Scientific References
+Rui Gao, Alfonso Torres-Rua, Ayman Nassar, Joseph Alfieri, Mahyar Aboutalebi, Lawrence Hipps, Nicolas Bambach Ortiz, Andrew J. McElrone, Calvin Coopmans, William Kustas, William White, Lynn McKee, Maria del Mar Alsina, Nick Dokoozlian, Luis Sanchez, John H. Prueger, Hector Nieto, Nurit Agam, "Evapotranspiration partitioning assessment using a machine-learning-based leaf area index and the two-source energy balance model with sUAV information," Proc. SPIE 11747, Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VI, 117470N (12 April 2021); https://doi.org/10.1117/12.2586259
+
 ## Gentle reminder
 One repository called [LAI-2200C](https://github.com/Mahyarona/LAI-2200C) which is built by Dr. [Aboutalebi](https://scholar.google.com/citations?user=6mqPhOMAAAAJ&hl=en) is much easy to use. It is a Matlab based script. I haven't noticed this repository after I finished my repository. Users can adopt either one accordingly.
