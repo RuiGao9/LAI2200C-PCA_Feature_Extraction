@@ -20,5 +20,6 @@ Gao, R., A. F. Torres-Rua (2021) Features extraction from the LAI2200C Plant Can
 GAO, R., Torres-Rua, A., Nassar, A., Alfieri, J., Aboutalebi, M., Hipps, L., Ortiz, N.B., Mcelrone, A.J., Coopmans, C., Kustas, W., White, W., McKee, L., Alsina, M.M., Dokoozlian, N., Sanchez, L., Prueger, J.H., Nieto, H., Agam, N. (2021) "Evapotranspiration partitioning assessment using a machine-learning-based leaf area index and the two-source energy balance model with sUAV information," Proc. SPIE 11747, Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VI, 117470N (12 April 2021); https://doi.org/10.1117/12.2586259
 
 ## Gentle reminder
-[LAI-2200C](https://github.com/Mahyarona/LAI-2200C) is the MATLAB version code built by Dr. [Aboutalebi](https://scholar.google.com/citations?user=6mqPhOMAAAAJ&hl=en)
+[LAI-2200C](https://github.com/Mahyarona/LAI-2200C) is a MATLAB version code built by Dr. [Aboutalebi](https://scholar.google.com/citations?user=6mqPhOMAAAAJ&hl=en). Please feel free to explore either the Python or MATLAB version code.<br>
+Any issues are welcome to shot emails to Rui Gao at Rui.Gao@usu.edu.
 
