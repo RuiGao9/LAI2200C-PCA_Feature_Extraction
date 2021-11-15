@@ -21,5 +21,5 @@ GAO, R., Torres-Rua, A., Nassar, A., Alfieri, J., Aboutalebi, M., Hipps, L., Ort
 
 ## Gentle reminder
 [LAI-2200C](https://github.com/Mahyarona/LAI-2200C) is a MATLAB version code built by Dr. [Aboutalebi](https://scholar.google.com/citations?user=6mqPhOMAAAAJ&hl=en). Please feel free to explore either the Python or MATLAB version code.<br>
-Any issues are welcome to shot emails to Rui Gao at Rui.Gao@usu.edu.
+Any issues are welcome to shot emails to [Rui Gao](https://scholar.google.com/citations?user=t0JFmREAAAAJ&hl=en) at Rui.Gao@usu.edu.
 
